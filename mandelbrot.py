@@ -104,7 +104,6 @@ while running:
         print(f"done {num}")
         num += 1
         scroll *= scroll_speed
-        # os.system("shutdown -s -t 10")
         
     else:
         for x in range(WIDTH):
